@@ -1,0 +1,13 @@
+/.idea
+/TD3_BC-main/.idea
+/TD3_BC-main/__pycache__
+/scripts/__pycache__
+/scripts/Planning/__pycache__
+/scripts/Planning/.idea
+/scripts/Planning/*.egg-info
+/Panda_Robot_Sim/.gitignore
+/Panda_Robot_Sim/.idea
+/Panda_Robot_Sim/__pycache__
+/Panda_Robot_Sim/*.egg-info
+/Panda_Robot_Sim/scripts/data_collection/datasets
+/Panda_Robot_Sim/scripts/data_collection/Models
