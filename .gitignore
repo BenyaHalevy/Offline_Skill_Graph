@@ -1,4 +1,5 @@
 /.idea
+.gitignore
 /TD3_BC-main/.idea
 /TD3_BC-main/__pycache__
 /scripts/__pycache__
