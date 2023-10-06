@@ -22,7 +22,7 @@ Use ```main.py``` in TD3_BC folder to learn new skills using new datasets or rep
 
 The Data files used to learn the skills used in the paper can be found [here](https://drive.google.com/drive/folders/1eSHySuRxk0WSG6xuclHlvJX7xDZ8Sp0u?usp=sharing)
 
-For ease of use the datasets folder should be place under ```Panda_Robot_Sim/scripts/data_collection'''.
+For ease of use the datasets folder should be place under ```Panda_Robot_Sim/scripts/data_collection```.
 
 ### TD3+BC
 TD3+BC was used to learn all skills used in this work, The code for using this algorithm is includded in this repo together with the trained models used in this works experiments. TD3+BC's original repo can be found [here](https://github.com/sfujim/TD3_BC) with more information and link to the paper.
