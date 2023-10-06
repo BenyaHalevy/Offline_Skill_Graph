@@ -6,7 +6,7 @@ This repo containes the code files used for the Offline Skill Graph (OSG) resear
 
 ### Installation
 
-In order to run the code, two folders should be installed locally using ```pip install -e .```. The ```Panda_Robot_Sim folder``` and the ```Planning``` folder under ```scripts```.
+In order to run the code, two folders should be installed locally using ```pip install -e .```. The ```Panda_Robot_Sim``` folder and the ```Planning``` folder under ```scripts```.
 
 ### Usage
 
